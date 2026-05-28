@@ -45,7 +45,7 @@ This example rotates the motor one full turn clockwise, then one full turn count
 
 ## Datasheet
 
-[28BYJ-48 datasheet (Kiatronics, PDF)](https://components101.com/sites/default/files/component_datasheet/28byj48-step-motor-datasheet.pdf)
+[28BYJ-48 datasheet & pinout (docs.circuit.rocks)](https://docs.circuit.rocks/motors/28byj-48/)
 
 ## Troubleshooting
 
